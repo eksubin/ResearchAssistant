@@ -1,4 +1,4 @@
-# Research Monitor Skill
+# ResearchMonitor
 
 A skill for OpenClaw to monitor research topics and report new findings.
 

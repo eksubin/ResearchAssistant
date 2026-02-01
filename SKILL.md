@@ -1,9 +1,9 @@
 ---
-name: Research Monitor
+name: ResearchMonitor
 description: Monitors research topics for new papers, conferences, and journals.
 ---
 
-# Research Monitor Skill
+# ResearchMonitor
 
 This skill helps you keep the user updated on their specific research field.
 
